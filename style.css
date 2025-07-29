@@ -35,3 +35,19 @@ header h2 {
     font-family: cursive;
     color: #969696;
 }
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background: #0f0e0e;
+}
+
+footer h2 {
+    font-size: 4rem;
+    font-family: cursive;
+    color: #969696;
+}
