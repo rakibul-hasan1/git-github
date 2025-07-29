@@ -52,8 +52,8 @@ footer h2 {
     color: #969696;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (width <= 300px) {
     h1 {
-        font-size: 50vw;
+        font-size: 20vw;
     }
 }
